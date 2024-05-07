@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Bienvenido a mi perfil de GitHub! 👋
 
-<!--
-**asanlir/asanlir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Alejandro, un apasionado de la tecnología, la IA y el aprendizaje continuo.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro formándome en áreas como Python, Machine Learning y soluciones basadas en la nube. Poco a poco voy ampliando mis habilidades y aumentando mis proyectos.
+
+
+## Contacto
+
+¡Si quieres saber más o simplemente charlar sobre tecnología, no dudes en ponerte en contacto conmigo!
+
+- 📫 Puedes contactarme a través de [correo electrónico](mailto:alejandrosanchezlirola@gmail.com).
+- 💼 Conéctate conmigo en [LinkedIn](www.linkedin.com/in/alejandro-sanchez-lirola).
+
+¡Gracias por visitar mi perfil y espero que disfrutes explorando mis proyectos!
