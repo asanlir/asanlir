@@ -2,9 +2,10 @@
 
 ¡Hola! Soy Alejandro, un apasionado de la tecnología, la IA y el aprendizaje continuo.
 
+
 ## Sobre mí
 
-Actualmente me encuentro formándome en áreas como Python, Machine Learning y soluciones basadas en la nube. Poco a poco voy ampliando mis habilidades y aumentando mis proyectos.
+Actualmente me encuentro formándome en áreas como Python, Machine Learning y soluciones basadas en la nube, con el objetivo de especializarme en Computer Vision. Poco a poco voy ampliando mis habilidades y aumentando mis proyectos. Siempre estoy en busca de nuevos desafíos y oportunidades para crecer en el mundo tecnológico.
 
 
 ## Contacto
