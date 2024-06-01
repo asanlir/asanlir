@@ -13,7 +13,7 @@ Actualmente me encuentro formándome de manera autodidacta en áreas como Python
 
 <br>
 
-<a><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/PCEP.png"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/Azure%20AI%20Fundamentals.png"></a><br>
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/PCEP.png"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/Azure%20AI%20Fundamentals.png"><br>
 
 <br>
 <br>
@@ -24,7 +24,10 @@ Actualmente me encuentro formándome de manera autodidacta en áreas como Python
 Si quieres saber más o simplemente charlar sobre tecnología, no dudes en ponerte en contacto conmigo 💬
 - 📫 **Cómo** **contactarme**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alejandrosanchezlirola@gmail.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-sanchez-lirola/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asanlir) 
+<hr>
+
+![asanlir's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanlir&theme=dark)<br>
+<br>![asanlir's github stats](https://github-readme-stats.vercel.app/api?username=asanlir&show_icons=true&theme=dark)
 
 [![Years Badge](https://badges.pufler.dev/years/asanlir)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/asanlir/asanlir)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/asanlir)](https://badges.pufler.dev)
 
