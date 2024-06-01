@@ -26,7 +26,7 @@ Si quieres saber más o simplemente charlar sobre tecnología, no dudes en poner
 
 <hr>
 
-<img align="right" width="500" height="500" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/octocat/octocat-moving.gif">
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/octocat/octocat-moving.gif">
 
 ![asanlir's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanlir&theme=dark)<br>
 <br>![asanlir's github stats](https://github-readme-stats.vercel.app/api?username=asanlir&show_icons=true&theme=dark)
