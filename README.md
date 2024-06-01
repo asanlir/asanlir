@@ -12,6 +12,13 @@ Actualmente me encuentro formándome de manera autodidacta en áreas como Python
 ### Plataformas de estudio: ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white) ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=plastic&logo=microsoft&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=plastic&logo=edX&logoColor=white) ![Udacity](https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6)
 
 <br>
+
+<a><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/PCEP.png"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/Azure%20AI%20Fundamentals.png"></a><br>
+
+<br>
+<br>
+<br>
+<br>
 <br>
 
 Si quieres saber más o simplemente charlar sobre tecnología, no dudes en ponerte en contacto conmigo 💬
@@ -20,6 +27,4 @@ Si quieres saber más o simplemente charlar sobre tecnología, no dudes en poner
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asanlir) 
 
 [![Years Badge](https://badges.pufler.dev/years/asanlir)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/asanlir/asanlir)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/asanlir)](https://badges.pufler.dev)
-
-
 
