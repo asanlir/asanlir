@@ -22,7 +22,8 @@ Actualmente me encuentro formándome de manera autodidacta en áreas como Python
 <br>
 
 Si quieres saber más o simplemente charlar sobre tecnología, no dudes en ponerte en contacto conmigo 💬
-- 📫 **Cómo** **contactarme**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alejandrosanchezlirola@gmail.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-sanchez-lirola/)
+- 📫 **Cómo** **contactarme**: <a href="mailto:alejandrosanchezlirola@gmail.com"><img src="assets/gmail.png" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/in/alejandro-sanchez-lirola/"><img src="assets/linkedin.png" width="30" height="30"></a>
 
 <hr>
 
