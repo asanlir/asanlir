@@ -32,5 +32,5 @@ Si quieres saber más o simplemente charlar sobre tecnología, no dudes en poner
 ![asanlir's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanlir&theme=dark)<br>
 <br>![asanlir's github stats](https://github-readme-stats.vercel.app/api?username=asanlir&show_icons=true&theme=dark)
 
-<br>[![Years Badge](https://badges.pufler.dev/years/asanlir)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/asanlir/asanlir)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/asanlir)](https://badges.pufler.dev)
+<br>[![Years Badge](https://badges.pufler.dev/years/asanlir?style=plastic&color=white)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/asanlir/asanlir?style=plastic&color=white)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/asanlir?style=social&logo=git)](https://badges.pufler.dev)
 
