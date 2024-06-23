@@ -1,9 +1,15 @@
 # ¡Bienvenido a mi perfil de GitHub! 🐙
+
+## <picture><img src ="assets/about_me.gif" width = 50px></picture> **About me**
+
 ### 👋 ¡Hola! Soy Alejandro, un apasionado de la tecnología, la IA y el aprendizaje continuo. 👨‍💻
 
 Actualmente me encuentro formándome de manera autodidacta en áreas como Python, Machine Learning y soluciones basadas en la nube, con el objetivo de especializarme en Computer Vision. 🎯 Poco a poco voy ampliando mis habilidades y aumentando mis proyectos. 🚀 Siempre estoy en busca de nuevos desafíos y oportunidades para crecer en el mundo tecnológico. 💻 
 
 ![image](https://raw.githubusercontent.com/asanlir/asanlir/main/assets/1699565272303.jpg)
+
+
+## <img src="assets/skills.gif" width ="25"><b> Tech Stack</b>
 
 ### Habilidades: ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
 
@@ -15,22 +21,26 @@ Actualmente me encuentro formándome de manera autodidacta en áreas como Python
 
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/PCEP.png"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/Azure%20AI%20Fundamentals.png"><br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
+
+## <b> Let's Connect..!</b><img src="assets/handshake.gif" width ="80">
 
 Si quieres saber más o simplemente charlar sobre tecnología, no dudes en ponerte en contacto conmigo 💬
-- 📫 **Cómo** **contactarme**: <a href="mailto:alejandrosanchezlirola@gmail.com"><img src="assets/gmail.png" width="30" height="30"></a>
-  <a href="https://www.linkedin.com/in/alejandro-sanchez-lirola/"><img src="assets/linkedin.png" width="30" height="30"></a>
+- <a href="mailto:alejandrosanchezlirola@gmail.com"><img src="assets/gmail.png" width="30" height="30">alejandrosanchezlirola@gmail.com</a>
+- <a href="https://www.linkedin.com/in/alejandro-sanchez-lirola/"><img src="assets/linkedin.png" width="30" height="30"></a>www.linkedin.com/in/alejandro-sanchez-lirola
 
-<hr>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <img align="right" width="400" height="400" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/octocat/octocat-moving.gif">
 
-![asanlir's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanlir&theme=dark)<br>
-<br>![asanlir's github stats](https://github-readme-stats.vercel.app/api?username=asanlir&show_icons=true&theme=dark)
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asanlir&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+   <img src="https://github-readme-stats.vercel.app/api?username=asanlir&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+</div>
 
 <br>[![Years Badge](https://badges.pufler.dev/years/asanlir?style=plastic&color=white)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/asanlir/asanlir?style=plastic&color=white)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/asanlir?style=social&logo=git)](https://badges.pufler.dev)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
