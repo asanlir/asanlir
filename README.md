@@ -11,7 +11,7 @@ Actualmente me encuentro formándome de manera autodidacta en áreas como Python
 
 ## <img src="assets/skills.gif" width ="25"><b> Tech Stack</b>
 
-### Habilidades: ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+### Habilidades: ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Watson](https://img.shields.io/badge/watson-%23334cff.svg?style=plastic&logoColor=white) 
 
 ### IDEs: ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 
@@ -19,7 +19,7 @@ Actualmente me encuentro formándome de manera autodidacta en áreas como Python
 
 <br>
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/PCEP.png"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/Azure%20AI%20Fundamentals.png"><br>
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/PCEP.png"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/Azure%20AI%20Fundamentals.png"><img align="left" width="100" height="100" src="assets/badges/Artificial Intelligence Fundamentals.png"><br>
 
 <br><br><br><br>
 
