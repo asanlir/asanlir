@@ -19,7 +19,12 @@ Actualmente me encuentro formándome de manera autodidacta en áreas como Python
 
 <br>
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/PCEP.png"><img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/Azure%20AI%20Fundamentals.png"><img align="left" width="100" height="100" src="assets/badges/Artificial Intelligence Fundamentals.png"><br>
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/PCEP.png">
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/badges/Azure%20AI%20Fundamentals.png">
+<img align="left" width="100" height="100" src="assets/badges/Artificial Intelligence Fundamentals.png">
+<img align="left" width="100" height="100" src="assets/badges/Working in a Digital World - Professional Skills.png">
+
+<br>
 
 <br><br><br><br>
 
