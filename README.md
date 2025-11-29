@@ -42,11 +42,8 @@ Si quieres saber más o simplemente charlar sobre tecnología, no dudes en poner
 
 <img align="right" width="400" height="400" src="https://raw.githubusercontent.com/asanlir/asanlir/main/assets/octocat/octocat-moving.gif">
 
-<div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asanlir&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-   <img src="https://github-readme-stats.vercel.app/api?username=asanlir&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-</div>
 
-<br>[![Years Badge](https://badges.pufler.dev/years/asanlir?style=plastic&color=white)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/asanlir/asanlir?style=plastic&color=white)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/asanlir?style=social&logo=git)](https://badges.pufler.dev)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/asanlir?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
